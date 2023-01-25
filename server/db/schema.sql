@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS ubertaxer;
+CREATE DATABASE ubertaxer;
